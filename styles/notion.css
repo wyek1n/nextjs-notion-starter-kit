@@ -59,7 +59,7 @@
 }
 
 .notion-gallery-grid .notion-page-title-text {
-  font-size: 2em;
+  font-size: 1em;
   white-space: unset;
 }
 
@@ -116,7 +116,7 @@
 
 .notion-quote {
   padding: 0.2em 0.75em;
-  font-size: 1.1em;
+  font-size: 0.5em;
 }
 
 .notion-h1,
