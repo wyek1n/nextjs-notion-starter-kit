@@ -7,6 +7,13 @@
  * places to add some flare.
  */
 
+body {
+   transform: scale(1.1);
+   transform-origin: 0 0;
+   // add prefixed versions too.
+}
+
+
 .notion {
   --notion-max-width: 720px;
   --notion-header-height: 54px;
