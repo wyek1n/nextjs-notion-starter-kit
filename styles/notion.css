@@ -7,12 +7,6 @@
  * places to add some flare.
  */
 
-body {
-   transform: scale(0.5);
-   transform-origin: 0 0;
-   // add prefixed versions too.
-}
-
 
 .notion {
   --notion-max-width: 720px;
@@ -25,7 +19,7 @@ body {
 }
 
 .index-page {
-  --notion-max-width: 900px;
+  --notion-max-width: 100px;
 }
 
 .notion-text {
